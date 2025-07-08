@@ -32,7 +32,7 @@
 
 ---
 
-<<<<<<< HEAD
+
 ## 📸 Screenshots
 
 
